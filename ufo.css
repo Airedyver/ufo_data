@@ -1,0 +1,45 @@
+
+/*
+ First External CSS Stylesheet
+ */
+
+/* Styling for HTML elements */
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 150%;
+  color: #333;
+  background: darkgrey;
+}
+main { 
+  padding-top: 10px; 
+}
+header {
+  background: black;
+}
+
+h1 {
+  padding: 20px 0;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: #fff;
+  text-align: center;
+}
+img {
+  height: 50px;
+  width: 800px;
+}
+
+thead { 
+ font-size: 20 }
+
+/* Selecting elements by class */
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+
